@@ -16,7 +16,7 @@ printed on the thermal receipt printer. In addition, the visits
 counter are stored locally in a text file, for easier modification of
 the available days variables and also not to loose any data if the system is rebooted or the program crash.
 
-The rfid tags are hardcoded in the program but they can be easily changed
+The rfid tag ids are hardcoded in the program but they can be easily changed
 as if you tap a new rfid tag its id gets printed in the conaole.
 
 by default the utility should run in the background so when starting from
