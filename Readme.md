@@ -1,5 +1,4 @@
-# Ji4ka COWORKING space RFID visits tracker, logger
-and customer receipt printing service.
+# Ji4ka COWORKING space RFID visits tracker, logger and customer receipt printing service.
 
 This project uses cheap chineese usb rfid reader adapters
 that enumerate on the host system as a standard HID  input
