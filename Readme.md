@@ -1,4 +1,4 @@
-# Ji4ka COWORKING space RFID visits tracker, logger and customer receipt printing service.
+# Ji4ka Coworkimg Space RFID visits tracker, logger and customer receipt printing service.
 ![USB card reader](https://raw.githubusercontent.com/Irdroid/jrfid/main/hardware/51yL27kO7eL.jpg)
 
 ## Motivation:
