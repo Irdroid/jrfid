@@ -1,5 +1,5 @@
 # Ji4ka Coworkimg Space RFID visits tracker, logger and customer receipt printing service.
-![USB card reader](https://raw.githubusercontent.com/Irdroid/jrfid/main/hardware/51yL27kO7eL.jpg | width=200)
+![USB card reader](https://raw.githubusercontent.com/Irdroid/jrfid/main/hardware/51yL27kO7eL.jpg width="200")
 
 ## Motivation:
 As prepaid visits packages are offered in our coworking space
